@@ -1,0 +1,117 @@
+"C:\Users\mj_li\Desktop\Python assignments\python17\venv\Scripts\python.exe" "C:/Users/mj_li/Desktop/Python assignments/python17/17.1.py"
+     last
+0    Wald
+1   Quirk
+2  Deitel
+3  Deitel
+4  Deitel
+                              title
+0         Android 6 for Programmers
+1            Android How to Program
+2                  C How to Program
+3                C++ How to Program
+4     Internet & WWW How to Program
+5     Intro to Python for CS and DS
+6               Java How to Program
+7  Visual Basic 2012 How to Program
+8          Visual C# How to Program
+9         Visual C++ How to Program
+        first    last                             title copyright        isbn
+0        Paul  Deitel         Android 6 for Programmers      2016  0134289366
+1      Harvey  Deitel         Android 6 for Programmers      2016  0134289366
+2       Abbey  Deitel         Android 6 for Programmers      2016  0134289366
+3         Dan   Quirk         Android 6 for Programmers      2016  0134289366
+4   Alexander    Wald         Android 6 for Programmers      2016  0134289366
+5        Paul  Deitel            Android How to Program      2017  0134444302
+6      Harvey  Deitel            Android How to Program      2017  0134444302
+7       Abbey  Deitel            Android How to Program      2017  0134444302
+8         Dan   Quirk            Android How to Program      2017  0134444302
+9   Alexander    Wald            Android How to Program      2017  0134444302
+10       Paul  Deitel                  C How to Program      2016  0133976890
+11     Harvey  Deitel                  C How to Program      2016  0133976890
+12      Abbey  Deitel                  C How to Program      2016  0133976890
+13        Dan   Quirk                  C How to Program      2016  0133976890
+14  Alexander    Wald                  C How to Program      2016  0133976890
+15       Paul  Deitel                C++ How to Program      2017  0134448235
+16     Harvey  Deitel                C++ How to Program      2017  0134448235
+17      Abbey  Deitel                C++ How to Program      2017  0134448235
+18        Dan   Quirk                C++ How to Program      2017  0134448235
+19  Alexander    Wald                C++ How to Program      2017  0134448235
+20       Paul  Deitel     Internet & WWW How to Program      2012  0132151006
+21     Harvey  Deitel     Internet & WWW How to Program      2012  0132151006
+22      Abbey  Deitel     Internet & WWW How to Program      2012  0132151006
+23        Dan   Quirk     Internet & WWW How to Program      2012  0132151006
+24  Alexander    Wald     Internet & WWW How to Program      2012  0132151006
+25       Paul  Deitel     Intro to Python for CS and DS      2020  0135404673
+26     Harvey  Deitel     Intro to Python for CS and DS      2020  0135404673
+27      Abbey  Deitel     Intro to Python for CS and DS      2020  0135404673
+28        Dan   Quirk     Intro to Python for CS and DS      2020  0135404673
+29  Alexander    Wald     Intro to Python for CS and DS      2020  0135404673
+30       Paul  Deitel               Java How to Program      2018  0134743350
+31     Harvey  Deitel               Java How to Program      2018  0134743350
+32      Abbey  Deitel               Java How to Program      2018  0134743350
+33        Dan   Quirk               Java How to Program      2018  0134743350
+34  Alexander    Wald               Java How to Program      2018  0134743350
+35       Paul  Deitel  Visual Basic 2012 How to Program      2014  0133406954
+36     Harvey  Deitel  Visual Basic 2012 How to Program      2014  0133406954
+37      Abbey  Deitel  Visual Basic 2012 How to Program      2014  0133406954
+38        Dan   Quirk  Visual Basic 2012 How to Program      2014  0133406954
+39  Alexander    Wald  Visual Basic 2012 How to Program      2014  0133406954
+40       Paul  Deitel          Visual C# How to Program      2017  0134601548
+41     Harvey  Deitel          Visual C# How to Program      2017  0134601548
+42      Abbey  Deitel          Visual C# How to Program      2017  0134601548
+43        Dan   Quirk          Visual C# How to Program      2017  0134601548
+44  Alexander    Wald          Visual C# How to Program      2017  0134601548
+45       Paul  Deitel         Visual C++ How to Program      2008  0136151574
+46     Harvey  Deitel         Visual C++ How to Program      2008  0136151574
+47      Abbey  Deitel         Visual C++ How to Program      2008  0136151574
+48        Dan   Quirk         Visual C++ How to Program      2008  0136151574
+49  Alexander    Wald         Visual C++ How to Program      2008  0136151574
+        first    last
+id                   
+1        Paul  Deitel
+2      Harvey  Deitel
+3       Abbey  Deitel
+4         Dan   Quirk
+5   Alexander    Wald
+6        Tony  Gaddis
+          isbn                             title  edition copyright
+0   0135404673     Intro to Python for CS and DS        1      2020
+1   0132151006     Internet & WWW How to Program        5      2012
+2   0134743350               Java How to Program       11      2018
+3   0133976890                  C How to Program        8      2016
+4   0133406954  Visual Basic 2012 How to Program        6      2014
+5   0134601548          Visual C# How to Program        6      2017
+6   0136151574         Visual C++ How to Program        2      2008
+7   0134448235                C++ How to Program       10      2017
+8   0134444302            Android How to Program        3      2017
+9   0134289366         Android 6 for Programmers        3      2016
+10  0134801156      Programming Logic And Design        5      2019
+    id        isbn
+0    1  0134289366
+1    2  0134289366
+2    5  0134289366
+3    1  0135404673
+4    2  0135404673
+5    1  0132151006
+6    2  0132151006
+7    3  0132151006
+8    1  0134743350
+9    2  0134743350
+10   1  0133976890
+11   2  0133976890
+12   1  0133406954
+13   2  0133406954
+14   3  0133406954
+15   1  0134601548
+16   2  0134601548
+17   1  0136151574
+18   2  0136151574
+19   4  0136151574
+20   1  0134448235
+21   2  0134448235
+22   1  0134444302
+23   2  0134444302
+24   6  0134801156
+
+Process finished with exit code 0
